@@ -2287,6 +2287,11 @@ Estrella Invitada: Hugh Jackman.</desc>
         <desc>Con motivo de su matrimonio, Justine y Michael dan una suntuosa recepción en la casa de la hermana de Justine y de su cuñado. Mientras tanto, el planeta Melancholia se dirige hacia la Tierra.</desc>
         <icon src="https://images.pluto.tv/series/60d18630d2de2a0013003593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260321063329 +0000" stop="20260321083350 +0000">
+        <title>Johnny Cogió su Fusil</title>
+        <desc>Un joven combatiente de la Primera Guerra Mundial despierta totalmente confuso en un hospital, confinado de por vida, ciego, sordo y mudo y con las piernas y los brazos amputados a causa de una explosión.</desc>
+        <icon src="https://images.pluto.tv/series/673b0bfdb7ea5e0013f38025/tile_1769191201990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260321005850 +0000" stop="20260321014525 +0000">
         <title>America's Next Top Model</title>
         <desc>Miss J entrena a las chicas para una pasarela de Kevan Hall en la sesión de fotos aprenden a modificar sus proporciones para parecer más altas.</desc>
@@ -3597,10 +3602,10 @@ Estrella Invitada: Hugh Jackman.</desc>
         <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
         <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8f49205650007bc15f1" start="20260321013000 +0000" stop="20260321021619 +0000">
-        <title>Pluto TV Series</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260321012733 +0000" stop="20260321021619 +0000">
+        <title>Z Nation</title>
+        <desc>10K y Rojo asisten a una ceremonia en Altura. Warren, Doc, Ciudadano Z y George llegan a Pacífica.</desc>
+        <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8f49205650007bc15f1" start="20260321021619 +0000" stop="20260321030405 +0000">
         <title>Z Nation</title>
@@ -4112,10 +4117,15 @@ Estrella Invitada: Hugh Jackman.</desc>
         <desc>Stella participa en un concurso de belleza, al igual que Lucy, de Torre Nube, con la ayuda de las Trix amañan el concurso.</desc>
         <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c69c87808b740007599fe1" start="20260321013000 +0000" stop="20260321021900 +0000">
-        <title>Érase una vez...</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="63c69c87808b740007599fe1" start="20260321012100 +0000" stop="20260321015000 +0000">
+        <title>Érase una vez... El espacio: El gran ordenador</title>
+        <desc>La capital de Yama es una nave espacial, que se está dirigiendo a Omega. Pedrito y Copito también están en la nave y todavía no han podido liberar a Kira. La situación se está complicando...</desc>
+        <icon src="https://images.pluto.tv/series/6245afac4f80a80014f05246/tile_1769122095824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20260321015000 +0000" stop="20260321021900 +0000">
+        <title>Érase una vez... El espacio: Combate de titanes</title>
+        <desc>Tiñoso desea derrotar finalmente a la Federación con sus aliados de Yama y el potente ordenador. También pretende derrocar a su líder y el ordenador está preparado para ello. Ahora, Omega tiene dos enemigos.</desc>
+        <icon src="https://images.pluto.tv/series/6245afac4f80a80014f05246/tile_1769122095824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63c69c87808b740007599fe1" start="20260321021900 +0000" stop="20260321024900 +0000">
         <title>Érase una vez... El espacio: El infinito del espacio</title>
@@ -4152,15 +4162,60 @@ Estrella Invitada: Hugh Jackman.</desc>
         <desc>Atenas, 438 antes de Cristo se ha inaugurado el Partenón, proyecto de Pericles. Van desfilando sabios como: Hipócrates, Sófocles, Sócrates... Pero, desgraciadamente, Grecia se embarcará en un sin fin de guerras.</desc>
         <icon src="https://images.pluto.tv/series/6245aff725269a0013abc393/tile_1769122441726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260321013000 +0000" stop="20260321053000 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321012518 +0000" stop="20260321015518 +0000">
         <title>Pluto TV Teen</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6475bfec536e0c0008858e9f" start="20260321013000 +0000" stop="20260321030034 +0000">
-        <title>Pluto TV K-Drama</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321015518 +0000" stop="20260321022518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321022518 +0000" stop="20260321025518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321025518 +0000" stop="20260321032518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321032518 +0000" stop="20260321035518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321035518 +0000" stop="20260321042518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321042518 +0000" stop="20260321045518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321045518 +0000" stop="20260321052518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260321052518 +0000" stop="20260321055518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6475bfec536e0c0008858e9f" start="20260321003441 +0000" stop="20260321015135 +0000">
+        <title>Belleza Juvenil</title>
+        <desc>Todos se enteran de las malas acciones de Yoon-seo y ella deja la empresa. Jin-wook y So-young avanzan hacia un futuro feliz.</desc>
+        <icon src="https://images.pluto.tv/series/68ac385bd2b4de67e66af4d6/tile_1769022001188.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6475bfec536e0c0008858e9f" start="20260321015135 +0000" stop="20260321030034 +0000">
+        <title>Amor Bajo la Luz de la Luna</title>
+        <desc>Hong Raon, la experta en corazón de la mujer, gana dinero dando un asesoramiento de amor. Raon fue a encontrarse a una mujer que amaba en lugar de su cliente, pero que apareció ahí es un hombre guapo...</desc>
+        <icon src="https://images.pluto.tv/series/689b515063893d441ee98e03/tile_1769021280913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6475bfec536e0c0008858e9f" start="20260321030034 +0000" stop="20260321041000 +0000">
         <title>Amor Bajo la Luz de la Luna</title>
@@ -4177,10 +4232,15 @@ Estrella Invitada: Hugh Jackman.</desc>
         <desc>Young se encarga el próxima cumpleaños del rey y el recepción del mensajero de Qing. y llama a muchachas del todo el país al palacio y compone la danza. Pero el mismo día del banquete, una mujer que tiene que baile sola danza se desaparece de repente...</desc>
         <icon src="https://images.pluto.tv/series/689b515063893d441ee98e03/tile_1769021280913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20260321013000 +0000" stop="20260321024402 +0000">
-        <title>Pluto TV Diseño</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64db2e0835425100080f2f5a" start="20260321004444 +0000" stop="20260321014445 +0000">
+        <title>Espacio Para Mejorar</title>
+        <desc>Glenn Keating y Gustav van der Westhuizen viven en Grace Park, Drumcondra, con su hijo Noah, de 5 años, y sus dos perros Weimaraner.</desc>
+        <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1755167402088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64db2e0835425100080f2f5a" start="20260321014445 +0000" stop="20260321024402 +0000">
+        <title>Espacio Para Mejorar</title>
+        <desc>Dermot tuvo un viaje que recorrer con esta construcción junto a Lisa y Marc.</desc>
+        <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1755167402088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64db2e0835425100080f2f5a" start="20260321024402 +0000" stop="20260321034312 +0000">
         <title>Espacio Para Mejorar</title>
@@ -21605,6 +21665,11 @@ A finales de septiembre de 1980 Mark Chapman, cuyos transtornos mentales le conv
         <title>El juego de Ender</title>
         <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
         <icon src="https://images.pluto.tv/series/67516488a7fde50013705b8d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a309c5a0cd5000873f609" start="20260321215855 +0000" stop="20260321232928 +0000">
+        <title>La rebelión de las máquinas</title>
+        <desc>Soldados sin recuerdos son llevados a pruebas con máquinas inteligentes.</desc>
+        <icon src="https://images.pluto.tv/series/68ff8e9f69032f4edf05fb40/tile_1761578924780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a3f200f238ce0008d47247" start="20260321165520 +0000" stop="20260321175720 +0000">
         <title>Evidencias del Crimen: Disparo a quemarropa: El caso Aurelie Barbot</title>
